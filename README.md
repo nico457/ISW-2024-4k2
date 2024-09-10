@@ -9,3 +9,14 @@
 | Ruiz Diaz Ignacio | 83462 |
 | Enrico Nicolás | 91215 |
 | Gonzalez Alvaro | 89711 |
+| Marin Franco | 90143 |
+
+## [Items de configuración](PlanGestionConfiguracion.md)
+
+## [Glosario](Glosario.md)
+
+## Criterio de línea base inicial
+Se define una línea base inicial con el plan de gestión de items de configuración, la estructura del repositorio y el glosario.
+
+## Criterio de línea base general
+Se define una nueva línea base a fin de cada mes, con los nuevos items de configuración que hayan surgido en ese periodo.
