@@ -15,6 +15,8 @@
 
 ## [Glosario](Glosario.md)
 
+## [Estructura del Repositorio](EstructuraRepositorio.md)
+
 ## Criterio de línea base inicial
 Se define una línea base inicial con el plan de gestión de items de configuración, la estructura del repositorio y el glosario.
 
