@@ -4,30 +4,58 @@ Este repositorio contiene recursos y documentación para la materia Ingeniería 
 ## Estructura
 
 ISW-2024-4k2/
+
 ├── Bibliografia/Libros/
-│   ├── Agile/
-│   ├── LeanKanban/
-│   ├── SCM/
-│   ├── SoftwareEngineering/
-│   └── Testing/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── Agile/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── LeanKanban/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── SCM/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── SoftwareEngineering/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;└── Testing/
+
 ├── Resumenes/
+
 ├── U1_ISWEnContexto/
-│   ├── Practico/
-│   │   ├── Actividades/
-│   │   └── Presentaciones/
-│   └── Teorico/Presentaciones/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── Practico/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;├── Actividades/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;└── Teorico/Presentaciones/
+
 ├── U2_GestionLeanAgil/
-│   ├── Practico/
-│   │   ├── Actividades/
-│   │   └── Presentaciones/
-│   └── Teorico/Presentaciones/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── Practico/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── Actividades/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;└── Teorico/Presentaciones/
+
 ├── U3_SWComoProducto/
-│   ├── Practico/
-│   │   ├── Actividades/
-│   │   └── Presentaciones/
-│   └── Teorico/Presentaciones/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── Practico/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;├── Actividades/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;└── Teorico/Presentaciones/
+
 ├── U4_AseguramientoAPyP/
-    ├── Practico/
-    │   ├── Actividades/
-    │   └── Presentaciones/
-    └── Teorico/Presentaciones/
+
+&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;├── Practico/
+    
+&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;├── Actividades/
+    
+&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones/
+    
+&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;└── Teorico/Presentaciones/
+    
