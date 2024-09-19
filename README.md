@@ -23,5 +23,5 @@ Se define una línea base inicial con el plan de gestión de items de configurac
 ## Criterio de línea base general
 Se define una nueva línea base a fin de cada mes, con los nuevos items de configuración que hayan surgido en ese periodo.
 
-##Criterio de nombrado de linea base
+## Criterio de nombrado de linea base
 Linea Base <mesActual>
