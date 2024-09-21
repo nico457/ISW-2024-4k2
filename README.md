@@ -25,4 +25,5 @@ Se define una nueva línea base a fin de cada mes, con los nuevos items de confi
 
 ## Criterio de nombrado de linea base
 Nombre de tag: "Linea_Base_\<mesActual>"
-Nombre de release: "Linea Base \n\<mesActual>"
+
+Nombre de release: "Linea Base \<mesActual>"
