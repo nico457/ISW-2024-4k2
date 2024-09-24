@@ -17,6 +17,10 @@ ISW-2024-4k2/
 
 │   &nbsp;&nbsp;&nbsp;&nbsp;└── Testing/
 
+├── ReglasDeJuego/
+
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── Templates/
+
 ├── Resumenes/
 
 ├── U1_ISWEnContexto/
