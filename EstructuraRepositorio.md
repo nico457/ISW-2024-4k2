@@ -14,40 +14,40 @@ mi-repositorio/
 ├── README.md  
 
 
-ISW-2024-4k2/
-├── Practico/
-│   ├── Isw-Practico-1/
-│   ├── Isw-Practico-2/
-│   ├── Isw-Practico-3/
-│   ├── Isw-Practico-4/
-│   ├── Isw-Practico-5/
-│   ├── Isw-Practico-6/
-│   ├── Isw-Practico-7/
-│   ├── Isw-Practico-8/
-│   ├── Isw-Practico-9/
-│   ├── Isw-Practico-10/
-│   ├── Isw-Practico-11/
-│   ├── Isw-Practico-12/
-│   ├── Isw-Practico-13/
-│   └── Isw-Practico-14/
+ISW-2024-4k2/  
+├── Practico/  
+│   ├── Isw-Practico-1/  
+│   ├── Isw-Practico-2/  
+│   ├── Isw-Practico-3/  
+│   ├── Isw-Practico-4/  
+│   ├── Isw-Practico-5/  
+│   ├── Isw-Practico-6/  
+│   ├── Isw-Practico-7/  
+│   ├── Isw-Practico-8/  
+│   ├── Isw-Practico-9/  
+│   ├── Isw-Practico-10/  
+│   ├── Isw-Practico-11/  
+│   ├── Isw-Practico-12/  
+│   ├── Isw-Practico-13/  
+│   └── Isw-Practico-14/  
+  
+├── ReglasDeJuego/  
+│   └── Templates/  
+  
+├── Resumenes/  
 
-├── ReglasDeJuego/
-│   └── Templates/
-
-├── Resumenes/
-
-├── Teorico/
-│   ├── Bibliografia/
-│   │   ├── Agile/
-│   │   ├── LeanKanban/
-│   │   ├── SCM/
-│   │   ├── SoftwareEngineering/
-│   │   └── Testing/
-│   ├── U1_ISWEnContexto/
-│   │   └── Presentaciones-U1/
-│   ├── U2_GestionLeanAgil/
-│   │   └── Presentaciones-U2/
-│   ├── U3_SWComoProducto/
-│   │   └── Presentaciones-U3/
-│   └── U4_AseguramientoAPyP/
-│       └── Presentaciones-U4/
+├── Teorico/  
+│   ├── Bibliografia/  
+│   │   ├── Agile/  
+│   │   ├── LeanKanban/  
+│   │   ├── SCM/  
+│   │   ├── SoftwareEngineering/  
+│   │   └── Testing/  
+│   ├── U1_ISWEnContexto/  
+│   │   └── Presentaciones-U1/  
+│   ├── U2_GestionLeanAgil/  
+│   │   └── Presentaciones-U2/  
+│   ├── U3_SWComoProducto/  
+│   │   └── Presentaciones-U3/  
+│   └── U4_AseguramientoAPyP/  
+│       └── Presentaciones-U4/  
