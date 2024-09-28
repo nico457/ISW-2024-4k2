@@ -9,3 +9,4 @@
 | TM | Template |
 | RDJ | Reglas de juego |
 | tipoPresentacion | Teórico o Práctico|
+| P | Parcial |
