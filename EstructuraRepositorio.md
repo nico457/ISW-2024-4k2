@@ -26,7 +26,7 @@ ISW-2024-4k2/
 ├── Resumenes/
 
 ├── Teorico/
-│   ├── Bibliografia/Libros/
+│   ├── Bibliografia/
 │   │   ├── Agile/
 │   │   ├── LeanKanban/
 │   │   ├── SCM/
@@ -40,4 +40,3 @@ ISW-2024-4k2/
 │   │   └── Presentaciones-U3/
 │   └── U4_AseguramientoAPyP/
 │       └── Presentaciones-U4/
-
