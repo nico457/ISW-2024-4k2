@@ -4,14 +4,14 @@ Este repositorio contiene recursos y documentación para la materia Ingeniería 
 ## Estructura
 
 mi-repositorio/
-├── carpeta1/
-│   ├── archivo1.txt
-│   ├── archivo2.txt
-├── carpeta2/
-│   ├── subcarpeta1/
-│   │   ├── archivo3.txt
-│   ├── archivo4.txt
-├── README.md
+├── carpeta1/  
+│   ├── archivo1.txt  
+│   ├── archivo2.txt  
+├── carpeta2/  
+│   ├── subcarpeta1/  
+│   │   ├── archivo3.txt  
+│   ├── archivo4.txt  
+├── README.md  
 
 
 ISW-2024-4k2/
