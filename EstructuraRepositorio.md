@@ -32,11 +32,7 @@ ISW-2024-4k2/
 │   │   ├── SCM/  
 │   │   ├── SoftwareEngineering/  
 │   │   └── Testing/  
-│   ├── U1_ISWEnContexto/  
-│   │   └── Presentaciones-U1/  
-│   ├── U2_GestionLeanAgil/  
-│   │   └── Presentaciones-U2/  
-│   ├── U3_SWComoProducto/  
-│   │   └── Presentaciones-U3/  
-│   └── U4_AseguramientoAPyP/  
-│       └── Presentaciones-U4/  
+│   ├── U1_ISWEnContexto/Presentaciones-U1  
+│   ├── U2_GestionLeanAgil/Presentaciones-U2  
+│   ├── U3_SWComoProducto/Presentaciones-U3  
+│   └── U4_AseguramientoAPyP/Presentaciones-U4/  
