@@ -4,48 +4,40 @@ Este repositorio contiene recursos y documentación para la materia Ingeniería 
 ## Estructura
 
 ISW-2024-4k2/
-
-
 ├── Practico/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-1/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-2/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-3/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-4/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-5/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-6/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-7/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-8/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-9/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-10/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-11/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-12/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Isw-Practico-13/
-│   &nbsp;&nbsp;&nbsp;&nbsp;└── Isw-Practico-14/
+│   ├── Isw-Practico-1/
+│   ├── Isw-Practico-2/
+│   ├── Isw-Practico-3/
+│   ├── Isw-Practico-4/
+│   ├── Isw-Practico-5/
+│   ├── Isw-Practico-6/
+│   ├── Isw-Practico-7/
+│   ├── Isw-Practico-8/
+│   ├── Isw-Practico-9/
+│   ├── Isw-Practico-10/
+│   ├── Isw-Practico-11/
+│   ├── Isw-Practico-12/
+│   ├── Isw-Practico-13/
+│   └── Isw-Practico-14/
 
 ├── ReglasDeJuego/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Templates/
+│   └── Templates/
 
 ├── Resumenes/
 
-
 ├── Teorico/
-│   &nbsp;&nbsp;&nbsp;&nbsp;├── Bibliografia/Libros/
-│   &nbsp;&nbsp;&nbsp;&nbsp;|   &nbsp;&nbsp;&nbsp;&nbsp;├── Agile/
-│   &nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;├── LeanKanban/
-│   &nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;├── SCM/
-│   &nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;├── SoftwareEngineering/
-│   &nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;└── Testing/
+│   ├── Bibliografia/Libros/
+│   │   ├── Agile/
+│   │   ├── LeanKanban/
+│   │   ├── SCM/
+│   │   ├── SoftwareEngineering/
+│   │   └── Testing/
+│   ├── U1_ISWEnContexto/
+│   │   └── Presentaciones-U1/
+│   ├── U2_GestionLeanAgil/
+│   │   └── Presentaciones-U2/
+│   ├── U3_SWComoProducto/
+│   │   └── Presentaciones-U3/
+│   └── U4_AseguramientoAPyP/
+│       └── Presentaciones-U4/
 
-|  &nbsp;&nbsp;&nbsp;&nbsp; ├── U1_ISWEnContexto/
-│   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones-U1/
-
-| &nbsp;&nbsp;&nbsp;&nbsp;  ├── U2_GestionLeanAgil/
-│ &nbsp;&nbsp;&nbsp;&nbsp;  │   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones-U2/
-
-|  &nbsp;&nbsp;&nbsp;&nbsp; ├── U3_SWComoProducto/ 
-│   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones-U3/
-
-
-|  &nbsp;&nbsp;&nbsp;&nbsp; ├── U4_AseguramientoAPyP/   
-|   &nbsp;&nbsp;&nbsp;&nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;└── Presentaciones-U4/
-    
