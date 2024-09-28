@@ -3,7 +3,7 @@ Este repositorio contiene recursos y documentación para la materia Ingeniería 
 
 ## Estructura
 
-mi-repositorio/
+mi-repositorio/  
 ├── carpeta1/  
 │   ├── archivo1.txt  
 │   ├── archivo2.txt  
