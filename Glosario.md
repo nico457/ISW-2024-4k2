@@ -10,3 +10,4 @@
 | RDJ | Reglas de juego |
 | tipoPresentacion | Teórico o Práctico|
 | P | Parcial |
+| TDI | Trabajo de investigación |
