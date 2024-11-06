@@ -9,3 +9,4 @@
 | Actividades | Practico\<nro>\_A_\<titulo>.\<ext>|/Práctico/Isw-Practico-\<nro>|
 | Reglas de juego | RDJ_<nombre>.pdf|/ReglasDeJuego|
 | Templates | TM_\<nombre>\.\<ext>|/ReglasDeJuego/Templates|
+| Trabajos de investigación | TDI_<nro>_<tema>.pdf | /Teorico/TrabajosDeInvestigación |
