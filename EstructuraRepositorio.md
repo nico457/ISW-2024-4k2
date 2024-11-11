@@ -26,13 +26,14 @@ ISW-2024-4k2/
 ├── Resumenes/  
 │   └── P1/  
 
-├── Teorico/  
+├── Teorico/
 │   ├── Bibliografia/  
 │   │   ├── Agile/  
 │   │   ├── LeanKanban/  
 │   │   ├── SCM/  
 │   │   ├── SoftwareEngineering/  
-│   │   └── Testing/  
+│   │   └── Testing/
+|   ├──TrabajosDeInvestigación/
 │   ├── U1_ISWEnContexto/Presentaciones-U1/  
 │   ├── U2_GestionLeanAgil/Presentaciones-U2/  
 │   ├── U3_SWComoProducto/Presentaciones-U3/  
